@@ -1,5 +1,5 @@
 # Sapiens-ES_ES-Traducion
-Traducion Español juego Sapiens
+Traducion Español juego Sapiens Version 0.3.8.2
 
 1- Instalación Manual:
 
