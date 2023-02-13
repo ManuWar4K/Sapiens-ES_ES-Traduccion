@@ -1,5 +1,5 @@
-# Sapiens-ES_ES-Traducion
-Traducion Español juego Sapiens Version 0.3.8.2
+# Sapiens En Español
+Este Mod añade una Traducion al Español del juego Sapiens
 
 1- Instalación Manual:
 
