@@ -5,8 +5,8 @@ local modInfo = {
     preview = "preview.png",
     version = "0.3.8.2",
     type = "app",
-    developer = "ManuWar9",
-    website = "https://github.com/manuwar9/Sapiens-ES_ES-Traduccion/releases",
+    developer = "ManuWar4K",
+    website = "https://github.com/ManuWar4K/Sapiens-ES_ES-Traduccion/releases",
     loadOrder = 1, --Orden de carga predeterminado para todos los activos de este mod. Los números más altos se cargan después de los números más bajos. 
                    --Para los scripts lua, esto se puede anular opcionalmente en la tabla de mods por script lua.
 }
