@@ -12,5 +12,5 @@ jobs:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: "Intentare Solucionar el problema lo antes posible,Gracias por tu tiempo y comprension."
+        issue-message: "Intentare Solucionar los problemas que se presenten lo antes posible,Gracias por tu tiempo y comprension."
         pr-message: "Puedes Bifurcar o Extraer el Repositorio,solo pido que me nombres,menciones,Hagamos crecer estos proyectos"
